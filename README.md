@@ -24,11 +24,3 @@
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="60" height="40"/>&nbsp;
   <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" title="Looker Studio" alt="Looker Studio" width="60" height="40"/>&nbsp;
 </div>
-
-<br>
-<br>
-  
-<div align="center">
-  <a href="https://www.linkedin.com/in/beatriz-leitao/">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" title="LinkedIn" alt="Let's connect on LinkedIn" width="40" height="40"/>
-  </a>
