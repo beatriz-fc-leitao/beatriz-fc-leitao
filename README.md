@@ -1,6 +1,6 @@
 ### Hi there, welcome to my Github profile 👋
 
-
+🌎 Born in Portugal but having lived in 6 different countries, I am a world-traveller with an international mindset.
 
 🧑‍🎓 I am currently a Masters student in Business Analytics and Big Data at IE University in Madrid, Spain.
 
