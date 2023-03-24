@@ -25,6 +25,8 @@
   <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" title="Looker Studio" alt="Looker Studio" width="60" height="40"/>&nbsp;
 </div>
 
+<br>
+<br>
   
 <div align="center">
   <a href="https://www.linkedin.com/in/beatriz-leitao/">
