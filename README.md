@@ -1,7 +1,5 @@
 ### Hi there, welcome to my Github profile 👋
 
-🌎 Born in Portugal but having lived in 6 different countries, I am a world-traveller with an international mindset.
-
 🧑‍🎓 I am currently a Masters student in Business Analytics and Big Data at IE University in Madrid, Spain.
 
 🔥 I am passionate about using data to drive insights and make informed decisions. Through my coursework, I have learned to use SQL, R, Python, PySpark, MongoDB and several dashboarding tools to analyze data, generate insights, and communicate key information.
