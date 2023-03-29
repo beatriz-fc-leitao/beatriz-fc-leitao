@@ -1,4 +1,4 @@
-### Hi there, welcome to my Github profile 👋
+### 👋 Hi there, welcome to my Github profile!
 
 🧑‍🎓 I am currently a Masters student in Business Analytics and Big Data at IE University in Madrid, Spain.
 
