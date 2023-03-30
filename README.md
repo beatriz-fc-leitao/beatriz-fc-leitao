@@ -16,8 +16,6 @@
 
 ☎️ Feel free to explore my projects, provide any feedback, or ask any questions!
 
-**Tech Stack**
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R Studio" alt="R Studio" width="60" height="40"/>&nbsp;
