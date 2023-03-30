@@ -8,7 +8,7 @@
 👩🏻‍🦱 In my free time...
 - I'm curious and love to learn new things 📚 🙋🏻‍♀️
 - I love travelling! I've actually lived in 6 different countries 🇵🇹 🇺🇸 🇫🇷 🇳🇱 🇬🇧 🇪🇸
-- I enjoy staing active and playing sports 🏃‍♀️ 🏐 🎾
+- I enjoy staying active and playing sports 🏃‍♀️ 🏐 🎾
 - I can never say no to yummy food and love to experiment with new recipes 🍱 🍝 🍪
 
 ### My Github Profile
