@@ -1,9 +1,7 @@
 ## Hi there, welcome!
 
 ### About Me
-🧑‍🎓 I am currently a Masters student in Business Analytics and Big Data at IE University in Madrid, Spain.
-
-🔥 I am passionate about using data to drive insights and make informed decisions. Through my coursework, I have learned to use SQL, R, Python, PySpark, MongoDB, SPSS and several dashboarding tools to analyze data, generate insights, make predictions, and communicate key information.
+🔥 I am passionate about using data to drive insights and make informed decisions. Through my academic and work experience, I have learned to use SQL, R, Python, PySpark, MongoDB, SPSS and several dashboarding tools to analyze data, generate insights, make predictions, and communicate key information.
 
 👩🏻‍🦱 In my free time...
 - I'm curious and love to learn new things 📚 🙋🏻‍♀️
